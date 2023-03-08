@@ -1,3 +1,0 @@
-# tcc
-
-halo apakabar
